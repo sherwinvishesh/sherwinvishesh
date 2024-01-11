@@ -21,7 +21,6 @@
 ✉️ &nbsp;You can email me at admin@sherwinvishesh.com . I'll try to respond as soon as possible!\
 📄 &nbsp;You can check my [Resume](https://drive.google.com/file/d/1HDFUDDl5uK9zW36QrXyMAacsRDQsAdpV/view?usp=sharing) for more details about my work experience.
 
-### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
 
 -----
 ### 📫 &nbsp; How to reach me:
