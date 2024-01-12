@@ -5,6 +5,7 @@
 
 </p>
 <h3 align="center">A highly motivated and detail-oriented computer science student at Arizona State University</h3>
+<img align="right" alt="Coding" width="400" src="https://github.com/sherwinvishesh/sherwinvishesh/blob/main/giphy_c.gif">
 
 
 
@@ -15,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [sherwinvishesh.com](sherwinvishesh.com)
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1HDFUDDl5uK9zW36QrXyMAacsRDQsAdpV/view?usp=sharing](https://drive.google.com/file/d/1HDFUDDl5uK9zW36QrXyMAacsRDQsAdpV/view?usp=sharing)
+- 📄 Know about my experiences [here's my Resume](https://drive.google.com/file/d/1HDFUDDl5uK9zW36QrXyMAacsRDQsAdpV/view?usp=sharing)
 
 - ⚡ Fun fact **I can dead-lift 420 lbs**
 
