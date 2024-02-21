@@ -14,7 +14,7 @@
 - ✍️ Apart from technical interests, I like watching movies, playing Cricket and badminton.
 
 
-- 👨‍💻 All of my projects are available at [sherwinvishesh.com](sherwinvishesh.com)
+- 👨‍💻 All of my projects are available at [sherwinvishesh.com](https://sherwinvishesh.com)
 
 - 📄 Know about my experiences [here's my Resume](https://drive.google.com/file/d/1HDFUDDl5uK9zW36QrXyMAacsRDQsAdpV/view?usp=sharing)
 
@@ -32,7 +32,7 @@
 <a href="https://twitter.com/sherwinvishesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sherwinvishesh" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sherwinvishesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sherwinvishesh" height="30" width="40" /></a>
 <a href="https://instagram.com/sherwinvishesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sherwinvishesh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/sherwinvishesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sherwinvishesh" height="30" width="40" /></a>
+<a href="https://youtube.com/@sherwinvishesh?si=czqcp5BDe98pzNJW" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sherwinvishesh" height="30" width="40" /></a>
 <a href="https://sherwinvishesh.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="sherwinvishesh.com" height="30" width="40" /></a>
 </p>
 
