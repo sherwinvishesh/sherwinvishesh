@@ -1,7 +1,7 @@
 <h1 align="center">Hello world 👋, I'm Sherwin Vishesh Jathanna</h1>
 <p align="center">
  
-![image](https://raw.githubusercontent.com/sherwinvishesh/sherwinvishesh/main/Public/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
+![image](https://raw.githubusercontent.com/sherwinvishesh/sherwinvishesh/main/Public/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.jpg)
 
 </p>
 <h3 align="center">A highly motivated and detail-oriented computer science student at Arizona State University</h3>
