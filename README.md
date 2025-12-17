@@ -13,16 +13,17 @@
 
 - ✍️ Apart from technical interests, I like watching movies, playing Cricket and badminton.
 
+- 🏆 I’ve participated in **21 hackathons**, winning **9** of them and earning **5 honorable mentions**.
 
 - 👨‍💻 All of my projects are available at [sherwinvishesh.com](https://sherwinvishesh.com)
 
-- 📄 Know about my experiences [here's my Resume](https://drive.google.com/file/d/1HDFUDDl5uK9zW36QrXyMAacsRDQsAdpV/view?usp=sharing)
+- 📄 Know about my experiences [here's my Resume](https://www.sherwinvishesh.com/resume)
 
 - ⚡ Fun fact **I can dead-lift 420 lbs**
 
 - 💬 Feel free to reach out to me for general consulting, or discussions
 
-- ✉️ You can email me at [admin@sherwinvishesh.com](mailto:admin@sherwinvishesh.com) . I'll try to respond as soon as possible!
+- ✉️ You can email me at [sjathann@asu.edu](mailto:sjathann@asu.edu) . I'll try to respond as soon as possible!
 
 
 
@@ -32,8 +33,8 @@
 [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sherwinvishesh)
 [![Instagram](https://img.shields.io/badge/Instagram-DD2A7B?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sherwinvishesh)
 [![Facebook](https://img.shields.io/badge/Facebook-3B5998?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010509816610&mibextid=ZbWKwL)
-[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sherwinvishesh?si=czqcp5BDe98pzNJW)
-[![email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:admin@sherwinvishesh.com)
+[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@sherwinvishesh)
+[![email](https://img.shields.io/badge/Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sjathann@asu.edu)
 [![website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=rss&logoColor=white)](https://sherwinvishesh.com)
 </div>
 
