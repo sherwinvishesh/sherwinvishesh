@@ -4,26 +4,29 @@
 ![image](https://raw.githubusercontent.com/sherwinvishesh/sherwinvishesh/main/Public/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.jpg)
 
 </p>
-<h3 align="center">A highly motivated and detail-oriented computer science student at Arizona State University</h3>
+<h3 align="center">Software Development Engineer at Intuit | Full Stack + AI/ML Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/sherwinvishesh/sherwinvishesh/main/Public/giphy_c.gif">
 
 
 
-- 🌱 I’m currently learning **Artificial Intelligence, Machine learning and Full stack Development**
-
+- 💼 I'm currently an **SDE at Intuit** on the IDX App Integrations team, building microservices, AI agents, and MCP tools that connect Intuit's products to third-party data sources
+  
+- 🌱 I specialize in **Full Stack Development, AI/ML, and LLM-powered systems** (RAG, agents, applied ML)
+  
 - ✍️ Apart from technical interests, I like watching movies, playing Cricket and badminton.
-
-- 🏆 I’ve participated in **21 hackathons**, winning **9** of them and earning **5 honorable mentions**.
-
+  
+- 🏆 I've participated in **38 hackathons**, winning **12** of them and earning **10 honorable mentions**.
+  
 - 👨‍💻 All of my projects are available at [sherwinvishesh.com](https://sherwinvishesh.com)
-
+  
 - 📄 Know about my experiences [here's my Resume](https://www.sherwinvishesh.com/resume)
-
+  
 - ⚡ Fun fact **I can dead-lift 420 lbs**
-
-- 💬 Feel free to reach out to me for general consulting, or discussions
-
+  
+- 💬 Feel free to reach out to me
+  
 - ✉️ You can email me at [sjathann@asu.edu](mailto:sjathann@asu.edu) . I'll try to respond as soon as possible!
+
 
 
 
@@ -40,4 +43,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,react,svelte,nodejs,java,spring,androidstudio,c,cpp,arduino,bash,firebase,flutter,aws,laravel,linux,figma,git,solidity,typescript,mysql,mongodb,jquery,express,bootstrap,tensorflow,pytorch,kafka,github,wordpress,windows,linux,ubuntu,kali,notion,angular,docker&perline=10)](https://sherwinvishesh.com)
+[![My Skills](https://skillicons.dev/icons?i=html,css,py,java,js,ts,cpp,c,cs,rust,dart,solidity,bash,swift,react,nextjs,vite,nodejs,express,flutter,django,flask,fastapi,dotnet,spring,mysql,postgres,mongodb,redis,sqlite,docker,kubernetes,aws,gcp,git,github,jenkins,grafana,prometheus,firebase,bootstrap,jquery,tensorflow,pytorch,sklearn,opencv,selenium,kafka,matlab,latex&perline=10)](https://sherwinvishesh.com)
